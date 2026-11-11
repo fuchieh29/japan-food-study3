@@ -1,0 +1,122 @@
+[
+  {
+    "id": "F01",
+    "name": "鰻魚丼飯",
+    "img": "images/F01.jpg"
+  },
+  {
+    "id": "F02",
+    "name": "生魚片",
+    "img": "images/F02.jpg"
+  },
+  {
+    "id": "F04",
+    "name": "唐揚雞飯",
+    "img": "images/F04.jpg"
+  },
+  {
+    "id": "F06",
+    "name": "日式燒烤",
+    "img": "images/F06.jpg"
+  },
+  {
+    "id": "F08",
+    "name": "廣島燒",
+    "img": "images/F08.jpg"
+  },
+  {
+    "id": "F09",
+    "name": "豚骨拉麵",
+    "img": "images/F09.jpg"
+  },
+  {
+    "id": "F10",
+    "name": "炸和牛",
+    "img": "images/F10.jpg"
+  },
+  {
+    "id": "F12",
+    "name": "海膽飯",
+    "img": "images/F12.jpg"
+  },
+  {
+    "id": "F13",
+    "name": "日式煎餃",
+    "img": "images/F13.jpg"
+  },
+  {
+    "id": "F14",
+    "name": "蛋包飯",
+    "img": "images/F14.jpg"
+  },
+  {
+    "id": "F15",
+    "name": "壽喜燒",
+    "img": "images/F15.jpg"
+  },
+  {
+    "id": "F16",
+    "name": "烏龍麵",
+    "img": "images/F16.jpg"
+  },
+  {
+    "id": "F17",
+    "name": "辣味拉麵",
+    "img": "images/F17.jpg"
+  },
+  {
+    "id": "F18",
+    "name": "牛丼",
+    "img": "images/F18.jpg"
+  },
+  {
+    "id": "F19",
+    "name": "咖喱豬排飯",
+    "img": "images/F19.jpg"
+  },
+  {
+    "id": "F20",
+    "name": "親子丼",
+    "img": "images/F20.jpg"
+  },
+  {
+    "id": "F21",
+    "name": "豬排定食",
+    "img": "images/F21.jpg"
+  },
+  {
+    "id": "F22",
+    "name": "天丼",
+    "img": "images/F22.jpg"
+  },
+  {
+    "id": "F23",
+    "name": "狐狸烏龍麵",
+    "img": "images/F23.jpg"
+  },
+  {
+    "id": "F24",
+    "name": "生魚片丼飯",
+    "img": "images/F24.jpg"
+  },
+  {
+    "id": "F25",
+    "name": "豬排丼飯",
+    "img": "images/F25.jpg"
+  },
+  {
+    "id": "F26",
+    "name": "柚子拉麵",
+    "img": "images/F26.jpg"
+  },
+  {
+    "id": "F27",
+    "name": "卷壽司",
+    "img": "images/F27.jpg"
+  },
+  {
+    "id": "F28",
+    "name": "日式烤牛排",
+    "img": "images/F28.jpg"
+  }
+]
